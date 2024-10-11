@@ -7,4 +7,4 @@
 </div>
 
 
-![Snake animation](https://github.com/willianifms/willianifms/blob/output/github-contribution-grid-snake.svg)
+
