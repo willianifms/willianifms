@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="left">contato</h3>
+<h3 align="left">Contato</h3>
 
 ###
 
